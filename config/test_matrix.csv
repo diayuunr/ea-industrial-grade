@@ -1,0 +1,11 @@
+symbol,asset_class,period_start,period_end,model,timeframe,status
+EURUSD,Forex,2019-01-01,2025-12-31,Every tick based on real ticks,H1,PENDING
+USDJPY,Forex,2019-01-01,2025-12-31,Every tick based on real ticks,H1,PENDING
+GBPUSD,Forex,2019-01-01,2025-12-31,Every tick based on real ticks,H1,PENDING
+XAUUSD,Metal,2019-01-01,2025-12-31,Every tick based on real ticks,H1,PENDING
+XAGUSD,Metal,2019-01-01,2025-12-31,Every tick based on real ticks,H1,PENDING
+US30,Index,2019-01-01,2025-12-31,Every tick based on real ticks,H1,PENDING
+JP225,Index,2019-01-01,2025-12-31,Every tick based on real ticks,H1,PENDING
+BTCUSD,Crypto,2019-01-01,2025-12-31,Every tick based on real ticks,H1,PENDING
+ETHUSD,Crypto,2019-01-01,2025-12-31,Every tick based on real ticks,H1,PENDING
+USOIL,Energy,2019-01-01,2025-12-31,Every tick based on real ticks,H1,PENDING

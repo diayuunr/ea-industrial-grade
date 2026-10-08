@@ -1,0 +1,23 @@
+# OS/editor
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
+
+# MT5 generated/local files
+*.ex5
+*.log
+*.tmp
+
+# Credentials/secrets
+.env
+*.key
+secrets.*
+credentials.*
+
+# Large raw tester caches
+*.hcc
+*.dat
+*.tks
+
+# Keep reports/results intentionally tracked; add private exports manually if needed.

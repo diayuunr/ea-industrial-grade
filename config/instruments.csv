@@ -1,0 +1,11 @@
+symbol,asset_class,timeframe,risk_percent
+EURUSD,Forex,H1,0.50
+USDJPY,Forex,H1,0.50
+GBPUSD,Forex,H1,0.50
+XAUUSD,Metal,H1,0.50
+XAGUSD,Metal,H1,0.50
+US30,Index,H1,0.50
+JP225,Index,H1,0.50
+BTCUSD,Crypto,H1,0.35
+ETHUSD,Crypto,H1,0.35
+USOIL,Energy,H1,0.50

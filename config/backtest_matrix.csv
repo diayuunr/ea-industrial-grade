@@ -1,0 +1,11 @@
+instrument,period_start,period_end,model,deposit_currency,initial_deposit,risk_per_trade,optimization,required_result
+EURUSD,2019-10-08,2026-10-08,Every tick based on real ticks,USD,10000,0.50%,Yes,Modeling quality/real ticks as reported by MT5
+USDJPY,2019-10-08,2026-10-08,Every tick based on real ticks,USD,10000,0.50%,Yes,Modeling quality/real ticks as reported by MT5
+GBPUSD,2019-10-08,2026-10-08,Every tick based on real ticks,USD,10000,0.50%,Yes,Modeling quality/real ticks as reported by MT5
+XAUUSD,2019-10-08,2026-10-08,Every tick based on real ticks,USD,10000,0.50%,Yes,Modeling quality/real ticks as reported by MT5
+XAGUSD,2019-10-08,2026-10-08,Every tick based on real ticks,USD,10000,0.50%,Yes,Modeling quality/real ticks as reported by MT5
+JP225,2019-10-08,2026-10-08,Every tick based on real ticks,USD,10000,0.50%,Yes,Modeling quality/real ticks as reported by MT5
+US500,2019-10-08,2026-10-08,Every tick based on real ticks,USD,10000,0.50%,Yes,Modeling quality/real ticks as reported by MT5
+BTCUSD,2019-10-08,2026-10-08,Every tick based on real ticks,USD,10000,0.50%,Yes,Modeling quality/real ticks as reported by MT5
+ETHUSD,2019-10-08,2026-10-08,Every tick based on real ticks,USD,10000,0.50%,Yes,Modeling quality/real ticks as reported by MT5
+USOIL,2019-10-08,2026-10-08,Every tick based on real ticks,USD,10000,0.50%,Yes,Modeling quality/real ticks as reported by MT5

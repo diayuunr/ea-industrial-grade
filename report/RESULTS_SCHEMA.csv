@@ -1,0 +1,1 @@
+instrument,asset_class,period_start,period_end,model,timeframe,initial_deposit,final_balance,total_return_pct,max_drawdown_pct,profit_factor,total_trades,winning_trades,losing_trades,profit_months,loss_months,max_loss_months_in_year,modeling_quality,optimization_status,out_of_sample_status,notes

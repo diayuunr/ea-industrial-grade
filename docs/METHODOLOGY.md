@@ -1,0 +1,2 @@
+# Methodology
+Entry is evaluated only on a new H1 bar. Direction uses EMA 21/200; ADX filters trend strength; breakout uses the prior N-bar high/low; ATR defines stop distance. Position size is calculated from equity and stop distance. Initial SL, fixed RR TP, break-even and ATR trailing are used. There is no Martingale, Grid, averaging-down or tick-by-tick HFT entry logic. Backtests must use Exness and Every tick based on real ticks over the required seven-year window. Performance targets are acceptance criteria and must never be fabricated.
